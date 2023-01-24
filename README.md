@@ -1,4 +1,2 @@
 # Data_Analysis
-This repo contains a collection of some data analysis projects I have done. In each project, I step through some or all processes contained in the analysis process which 
-involves wrangling data, assessing data, cleaning data, exploratory data analysis and explanatory data analysis and data visualisation. This is to showcase different 
-areas in data analysis and an in-depth understanding of certain concepts. 
+This repository includes a variety of data analysis projects I have completed. Each project demonstrates various stages of the analysis process, including data wrangling, assessment, cleaning, exploratory analysis, explanatory analysis, and data visualization. The goal is to highlight various aspects of data analysis and exhibit a deep understanding of certain concepts. 
